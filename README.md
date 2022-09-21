@@ -1,2 +1,3 @@
 # Emojipedia
-Created with CodeSandbox
+Mapping Data to Components Practice with React.js
+
